@@ -1,0 +1,9 @@
+{
+  "base_url": "https://your-real-domain.example",
+  "sample_only": true,
+  "codes": {
+    "grain-drink": "https://your-real-domain.example/products/grain-drink/",
+    "kollu-kenda": "https://your-real-domain.example/products/kollu-kenda/",
+    "grain-aggala": "https://your-real-domain.example/products/grain-aggala/"
+  }
+}

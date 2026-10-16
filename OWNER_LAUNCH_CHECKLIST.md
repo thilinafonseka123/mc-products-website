@@ -1,0 +1,23 @@
+# MC PRODUCTS launch checklist
+
+- [ ] Confirm product names (Sinhala and English) with physical package
+- [ ] Confirm each ingredient list and order with the owner
+- [ ] Confirm exact cooking methods, spoon/cup sizes, times, milk and food-safety guidance
+- [ ] Add required allergen details from full ingredient list, especially peanuts/sesame if present
+- [ ] Review any permitted and substantiated nutrition/health claims
+- [ ] Confirm grain drink price (LKR 330 on photographed sample label)
+- [ ] Confirm kollu kenda price (LKR 240 on photographed sample label)
+- [ ] **Provide aggala price; it was not confirmed by the provided images**
+- [ ] Confirm business phone +94 77 341 8738 is active on WhatsApp
+- [ ] Confirm business address: 220/1, Horana Road, Wekada, Panadura
+- [ ] Confirm delivery/collection geography, charges, payments and stock
+- [ ] Confirm any relevant food labeling, registration, manufacturing and shipping requirements
+- [ ] Replace vector-approximation logo with official master artwork if needed
+- [ ] Add official Facebook/Instagram URLs only after confirming handles
+- [ ] Configure live HTTPS domain in `.env.local` / host environment
+- [ ] Deploy website and test product URLs on mobile data
+- [ ] Generate QR codes **again**, using live domain
+- [ ] Print sample QR label and scan from Android and iPhone
+- [ ] Verify correct product page, preparation steps and WhatsApp order message
+- [ ] Run `npm run build` and test keyboard, reduced-motion and small screens
+- [ ] Configure a privacy notice before enabling analytics or third-party trackers
